@@ -1,0 +1,2 @@
+Credit card companies must have the ability to detect fraudulent transactions in order to identify unauthorized purchases that are not made by the customers. As a result, many financial institutions have implemented stringent measures for credit card usage. Data science and Machine Learning now play a crucial role in assisting financial institutions by providing advanced and robust models that help administrators identify fraudulent transactions associated with users’ credit cards.
+

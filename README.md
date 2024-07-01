@@ -6,11 +6,11 @@ ABSTRACT / PROBLEM STATEMENT :
 
 Credit card companies must have the ability to detect fraudulent transactions in order to identify unauthorized purchases that are not made by the customers. As a result, many financial institutions have implemented stringent measures for credit card usage. Data science and Machine Learning now play a crucial role in assisting financial institutions by providing advanced and robust models that help administrators identify fraudulent transactions associated with users’ credit cards.
 
-![image](https://github.com/amazing-ambika/Credit-Card-Approval-Prediction-System/assets/121657317/8686eda0-251d-4fb9-b3af-c8ec4c98d550)
 
+ALGORITHMS USED :
 
-
-
+K Nearest Neighbor
+Decision Tree
 
 
 RESULTS / OUTPUT :
